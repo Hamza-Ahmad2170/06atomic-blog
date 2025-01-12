@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hamza-Ahmad2170/06atomic-blog/static/css/main.eb1cb02f.css",
+    "main.js": "/Hamza-Ahmad2170/06atomic-blog/static/js/main.306964b7.js",
+    "index.html": "/Hamza-Ahmad2170/06atomic-blog/index.html",
+    "main.eb1cb02f.css.map": "/Hamza-Ahmad2170/06atomic-blog/static/css/main.eb1cb02f.css.map",
+    "main.306964b7.js.map": "/Hamza-Ahmad2170/06atomic-blog/static/js/main.306964b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb1cb02f.css",
+    "static/js/main.306964b7.js"
+  ]
+}
